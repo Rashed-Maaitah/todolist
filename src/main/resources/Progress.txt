@@ -1,0 +1,11 @@
+A task application should allow the user to create a task with a name descption and a due date
+and to signal if the task is completed or not 
+
+First Task Create, Read, Update, Delete a task // Done 
+
+Second Task deal with the exceptions
+
+Third Task is to create a real data base 
+
+Fourth Task is to implement JWT auth
+
